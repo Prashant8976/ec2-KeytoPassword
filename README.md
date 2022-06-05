@@ -9,7 +9,7 @@
 
 3) sudo service sshd restart
 
-# On controller,
+# On controller
    ssh ec2-user@ip
    - password
    
